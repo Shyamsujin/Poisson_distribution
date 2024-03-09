@@ -70,6 +70,7 @@ else:
  ```
 
 # Output : 
+![240573602-66c445f7-50f1-4749-a102-9da761ccabcd](https://github.com/Shyamsujin/Poisson_distribution/assets/144870449/9086941b-60f9-4630-80f0-1c49a2a03b53)
 
 
 
